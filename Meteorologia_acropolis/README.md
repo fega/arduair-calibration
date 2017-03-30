@@ -12,7 +12,7 @@ Se usan los notebooks presentes en esta carpeta para generar las variables de ca
 **Test.ipynb:** Algunas pruebas de funcionamiento de Jupyter y pandas.
 **Raw meteorology data processing.ipynb:** Adecuacion de los datos generados por el dispositivo Arduair
 **Raw estacion meteorology data processing.ipynb:** Adecuacion de los datos generados por la estacion
-**comparison.ipynb:** Generacion de resultado
+**comparison.ipynb:** Generacion de resultados
 
 ### Resultados
 Temperature[C]
@@ -23,4 +23,3 @@ Pression[mb]
 y = x*0.7182389783230818 + 28.010073871769578
 Radiation[mb]
 y = x*0.013153785956325851 + -1.6451526314835176
-
